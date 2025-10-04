@@ -49,4 +49,4 @@ print(cube.volume())
 print(cube.diagonal())
 
 
-classes are very simple. don't think??
+classes are very simple. don't you think??
